@@ -34,6 +34,9 @@ const HomePage = () => {
       {/* Header */}
       <div className="header">
         <h1>E-Commerce KLU App</h1>
+=======
+        <h1>E-Commerce</h1>
+ ef01e80537bc6224f241b58e864f9934567a6d49
         <div className="header-right">
           {isAuthenticated ? (
             <div className="profile-menu">
